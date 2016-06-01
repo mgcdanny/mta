@@ -1,6 +1,0 @@
-./data/turnstile_100807.txt'DataFrame' object has no attribute 'exits'
-./data/turnstile_110924.txt'DataFrame' object has no attribute 'exits'
-./data/turnstile_120505.txt'DataFrame' object has no attribute 'exits'
-./data/turnstile_120714.txt'DataFrame' object has no attribute 'entries'
-./data/turnstile_120811.txt'DataFrame' object has no attribute 'exits'
-./data/turnstile_130706.txt'DataFrame' object has no attribute 'exits'
